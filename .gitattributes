@@ -1,0 +1,18 @@
+# Text files (code, config, etc.) should use LF for consistency
+*.cpp text eol=lf
+*.h text eol=lf
+*.cs text eol=lf
+*.uplugin text eol=lf
+*.ini text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+# Unreal asset files (binary, should not be normalized)
+*.uasset binary
+*.umap binary
+
+# Other binary files
+*.png binary
+*.jpg binary
+*.fbx binary
+*.tga binary

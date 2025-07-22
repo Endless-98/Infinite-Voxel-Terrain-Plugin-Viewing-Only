@@ -1,0 +1,57 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.98",
+	"FriendlyName": "InfiniteVoxelTerrainPlugin",
+	"Description": "Multithreaded Voxel Terrain Generator with region-based loading, vertical scaling, and Multiplayer support.",
+	"Category": "CodePlugins",
+	"CreatedBy": "Endless98",
+	"CreatedByURL": "https://discord.gg/VSCfnzhhVG",
+	"DocsURL": "https://docs.google.com/document/d/1mXKMQn5eeUjE8qLgX_6STgf2Px4e5Ym7yjVR7XlBmZw/pub",
+	"SupportURL": "https://discord.gg/VSCfnzhhVG",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"EngineVersion": "5.5",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4dee9a793a2b412fa3b193cfae8d24e6",
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"WhitelistPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "InfiniteVoxelTerrainPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RealtimeMeshComponent",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		},
+		{
+			"Name": "RealtimeMeshTests",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RealtimeMeshEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "RealtimeMeshExamples",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "UnrealFastNoise2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
