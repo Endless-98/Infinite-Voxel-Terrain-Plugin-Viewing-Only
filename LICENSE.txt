@@ -1,0 +1,9 @@
+Copyright (c) 2025 Moses Hoggatt. All rights reserved.
+
+The software and associated documentation files (the "Software") in this repository are proprietary and confidential. No person or entity may use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software without prior written permission from Moses Hoggatt.
+
+Permission is granted solely to potential employers for the purpose of reviewing the Software as part of a job application process. Such permission is limited to viewing and downloading the Software and does not include any rights to use the Software for any other purpose, including but not limited to personal, commercial, or open-source projects.
+
+For commercial use or distribution, the Software is available for purchase on Fab at https://www.fab.com/listings/3ebd8b53-e314-4aff-b92f-ecee4f062c8c. Contact endlessninetyeight@gmail.com for inquiries regarding access or licensing.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
