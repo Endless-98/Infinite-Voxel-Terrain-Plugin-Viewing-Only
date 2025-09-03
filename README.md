@@ -1,3 +1,5 @@
+NOTE: I developed this project before I became familiar with git and source control. If I could do it over again I would commit frequently, and use feature branches for big changes.
+
 # **Infinite Voxel Terrain Plugin** **Documentation**
 
 Version 0.98  
