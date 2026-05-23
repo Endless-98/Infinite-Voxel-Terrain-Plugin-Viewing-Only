@@ -1,0 +1,50 @@
+# Unreal Engine generated
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+
+# Visual Studio
+.vs/
+.vsconfig
+*.sln
+*.slnx
+*.VC.db
+*.VC.VC.opendb
+*.ilk
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+*.lastbuildstate
+
+# Rider
+.idea/
+out/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbs
+Thumbs.db
+
+# Temp
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
+
+# Python venv
+.venv/
+
+# Logs
+*.log
+*.log.*
